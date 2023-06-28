@@ -9,7 +9,7 @@ one
 
 two
 
-![usage sample](https://s11.gifyu.com/images/SQUt6.gif)
+![usage sample](https://s11.gifyu.com/images/SQUto.gif)
 
 ## three
 
